@@ -1,0 +1,20 @@
+.client-list {
+  padding: 40px 0;
+}
+.my-clients {
+  display: flex;
+  padding: 20px 0;
+}
+.cleint-block {
+  display: flex;
+  flex-direction: row;
+  margin: 20px 0;
+}
+
+@media screen and (min-width: 768px) {
+  .my-clients {
+    display: inline-block;
+    margin-left: 60px;
+  }
+
+}
