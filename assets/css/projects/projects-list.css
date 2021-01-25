@@ -3,22 +3,27 @@
   color: var(--text-color2);
   padding: 40px 0;
 }
+
 .my-projects {
   display: flex;
   justify-content: center;
   padding: 20px 0;
 }
+
 .project-block {
   display: flex;
   flex-direction: row;
   margin: 20px 0;
 }
+
 .project-tag {
   padding-left: 20px;
 }
+
 .project-name {
   font-size: 1.1em;
 }
+
 .project-about {
   margin-top: 15px;
 }
