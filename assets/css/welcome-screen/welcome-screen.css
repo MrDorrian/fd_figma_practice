@@ -30,6 +30,7 @@
   object-fit: contain;
   object-position: center;
 }
+
 .welcome-text-margins {
   margin: 16px 0;
 }
@@ -45,6 +46,7 @@
     max-width: 70%;
     margin: 0 auto;
   }
+
   .welcome-screen {
     padding: 160px 0;
   }
